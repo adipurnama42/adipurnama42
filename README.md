@@ -17,6 +17,14 @@ I love combining **design and development** — from crafting interfaces in Figm
 <br>
 
 <div>
+  <a href="https://www.linkedin.com/in/adipurnama42/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/adipurnama42/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
   <a href="https://github.com/adipurnama42">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
